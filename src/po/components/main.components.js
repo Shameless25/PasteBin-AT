@@ -6,10 +6,7 @@ class MainComponents{
         dropdown:`//div[@class="form-group field-postform-expiration"]`,
         options:'//li[contains(text(), "10 Minutes")]',
         titlefield:`#postform-name`,
-        button:`.btn.-big`,
-        infocheck:`div.de1`,
-        timeleft:`div.expire`,
-        titlecheck:`div.info-top`
+        button:`.btn.-big`
        }
     }
     item(el){
